@@ -1,2 +1,3 @@
-# linktree - onepager website for screenschots
-Kunst Digitale Medien HAW Hamburg, Prof. Aram Bartholl - Linktree
+#  screenschots linktree
+https://screenschots.github.io/linktree/
+One pager mini website for 'Kunst, Schwerpunkt digitale Medien' HAW Hamburg, Prof. Aram Bartholl
