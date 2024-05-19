@@ -8,14 +8,17 @@
   </head>
   <body>
 <H2>Skulptur 1</H2>
-  <model-viewer src="ar-test-2.glb"
+  <model-viewer src="ar-test-1.glb"
                 ios-src="ar-test-1.usdz"
                 alt="Kunsthalle AR Show"
                 ar
                 auto-rotate
                 camera-controls
                 ar-modes="webxr scene-viewer quick-look" 
-                environment-image="neutral">   
+                environment-image="neutral" 
+                camera-controls
+                animation-name="CubeAction" 
+                animation-loop>  
   </model-viewer>
  <script>
         async function checkARCoreCompatibility() {
